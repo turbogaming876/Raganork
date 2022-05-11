@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "Darco Vampire",
   "version": "4.0.1",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "Darco Vampire whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/turbogaming876/Raganork"
   },
   "keywords": [
     "whatsapp",
